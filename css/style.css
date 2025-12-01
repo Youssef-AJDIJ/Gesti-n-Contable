@@ -8,11 +8,11 @@
     --danger-gradient: linear-gradient(135deg, #eb3349 0%, #f45c43 100%);
     --neutral-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
 
-    --bg-dark: #0f0f23;
-    --bg-card: rgba(255, 255, 255, 0.05);
-    --bg-card-hover: rgba(255, 255, 255, 0.08);
+    --bg-dark: #dedeec;
+    --bg-card: rgba(255, 255, 255, 0.8);
+    --bg-card-hover: rgba(255, 255, 255, 0.8);
 
-    --text-primary: #ffffff;
+    --text-primary: #1a0a46;
     --text-secondary: #a0a0c0;
 
     --success: #38ef7d;
